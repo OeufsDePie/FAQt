@@ -12,9 +12,9 @@ Then as soon as someone has the answer to that issue, that person can answer dir
 Here, the milestones do not have any due date and play the role of global categories of issues.
 At the beginning, there will have 3 milestones :
 
-* Qt : for generic issues about Qt
 * QML : specific to the QML langage
 * PyQt : specific to the PyQt library
+* Python : python related issues
 
 ## Tags
 
